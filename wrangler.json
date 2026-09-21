@@ -1,1 +1,5 @@
-{"name": "my-single-file-worker", "main": "your-file.js", "compatibility_date": "2026-09-21"}
+{
+    "name": "my-single-file-worker",
+    "main": "index.js",
+    "compatibility_date": "2026-09-21"
+}
